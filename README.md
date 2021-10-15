@@ -7,7 +7,7 @@ To run the project:
 2. Run `npm install`
 3. Run `npm start`
 ---
-[API used for Face-Detection](https://www.clarifai.com/models/ai-face-detection)
+[API used for Face-Detection](https://www.clarifai.com/models/ai-face-detection)</br>
 [Server Back-End](https://github.com/RamazanUstuntas/gandalfs-face-detection-api)
 
 ![Example](https://i.hizliresim.com/kfl6zpq.png)

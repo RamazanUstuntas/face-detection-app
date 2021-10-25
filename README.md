@@ -1,5 +1,7 @@
-# face-detection-app
+# gandalfs-face-detection-app
 My startup project that I developed as a full stack.
+---
+### Gandalf's magic staff is very ambitious at detecting faces in pictures!
 
 To run the project:
 
